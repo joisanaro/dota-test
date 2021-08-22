@@ -1,3 +1,3 @@
-# Git and Github course
+# Dota 2 project
 
-Crash course for Git
+Remake on Grid Css
